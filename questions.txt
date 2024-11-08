@@ -1,0 +1,17 @@
+4. Design a class hierarchy for bank accounts. Create a base class BankAccount with
+properties like accountNumber and balance. Then, create two subclasses:
+SavingsAccount and CurrentAccount. Implement methods to deposit and withdraw
+money, and override a method to display account details specific to each account
+type.
+
+
+5. Develop a class hierarchy for geometric shapes. Create a base class Shape with a
+method area(). Then, implement two subclasses: Circle and Rectangle. Each subclass
+should have a constructor to initialize its dimensions and override the area()
+method to calculate the area of the shape.
+
+
+6. Implement a Java program demonstrating the use of abstract classes and
+interfaces in a banking application scenario. Define classes Account (abstract class),
+SavingsAccount, and CurrentAccount implementing different interfaces for
+operations like deposit, withdraw, and calculateInterest.
