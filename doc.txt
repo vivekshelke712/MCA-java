@@ -1,0 +1,39 @@
+10. Design a simple GUI application using Swing components that includes a JFrame 
+with a JLabel, a JTextField, and a JButton. When the button is clicked, the text 
+entered in the text field should be displayed in the label  
+  Create a JFrame.  
+ Add a JLabel to display instructions.  
+ Add a JTextField for user input.  
+ Add a JButton to trigger the action.  
+ Implement an ActionListener for the button to update the label with the 
+text from the text field.  
+
+ 11.  Experiment with different layout managers in Java to understand their 
+behavior. Create a JFrame with multiple JButtons arranged using different layout 
+managers such as BorderLayout, FlowLayout, GridLayout, and BoxLayout.  
+a. Create a JFrame.  
+b. Add multiple JButtons with different labels.  
+c. Use different layout managers for each button to observe their 
+arrangement.  
+
+12. Develop a menu-driven GUI application using Swing components. The 
+application should include a menu bar with options for File (with sub-options New, 
+Open, Save, Save As, Exit) and Edit (with sub-options Cut, Copy, Paste). Implement 
+basic functionalities for each menu option.   
+ Create a JFrame.  
+ Add a JMenuBar.  
+ Add JMenu items for File and Edit.  
+ Add JMenuItems for the sub-options under each menu.  
+ Implement ActionListeners for each menu item to perform the 
+respective actions (e.g., display a dialog for New/Open, save a file for 
+Save, exit the application for Exit, etc.).  
+
+13. Develop a Java program that demonstrates basic event handling using buttons. 
+Create a JFrame with two buttons labeled "Button 1" and "Button 2". When "Button 
+1" is clicked, display a message saying "Button 1 clicked!" and when "Button 2" is 
+clicked, display a message saying "Button 2 clicked!”  
+ Create a JFrame.  
+ Add two JButtons with labels "Button 1" and "Button 2".  
+ Implement ActionListeners for each button to handle the click 
+events.  
+ Display appropriate messages when each button is clicked.
