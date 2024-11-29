@@ -37,3 +37,25 @@ clicked, display a message saying "Button 2 clicked!”
  Implement ActionListeners for each button to handle the click 
 events.  
  Display appropriate messages when each button is clicked.
+
+
+14. Develop a Java program that demonstrates custom events and listeners. Create
+a scenario where an alarm system is triggered when a button is pressed. Implement
+custom event classes and listeners to handle the alarm eventCreate a JFrame.
+ Add a JButton labeled "Trigger Alarm".
+ Define a custom event class (e.g., AlarmEvent) and a corresponding listener
+interface (e.g., AlarmListener).
+ Implement the AlarmListener interface in a class responsible for handling
+the alarm event.
+ Trigger the custom event when the "Trigger Alarm" button is pressed.
+ Display a message or perform an action when the alarm event is triggered.
+
+15. Develop a Java application to perform CRUD operations on a student database
+using JDBC.
+ Create a database schema for a student table with fields like student_id,
+name, age, and grade.
+ Establish a JDBC connection to the database.
+ Write SQL queries to create the student table, insert sample data, update
+records, and delete records.
+ Implement exception handling to manage SQL exceptions.
+ Execute the Java program to demonstrate CRUD operations.

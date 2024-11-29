@@ -59,3 +59,18 @@ name, age, and grade.
 records, and delete records.
  Implement exception handling to manage SQL exceptions.
  Execute the Java program to demonstrate CRUD operations.
+
+
+16. Create a database schema named "University" with tables for storing student
+records.
+d. Create a stored procedure named "getStudentById" that accepts a
+student ID as input and returns the corresponding student details.
+e. Populate the student table with sample data.
+f. Establish a JDBC connection to the "University" database.
+g. Write a Java method to invoke the "getStudentById" stored
+procedure using CallableStatement.
+h. Prompt the user to input a student ID.
+i. Pass the input student ID to the CallableStatement as a parameter.
+j. Execute the CallableStatement to retrieve the student details.
+k. Display the retrieved student details (e.g., ID, name, age, etc.) to the
+user.
